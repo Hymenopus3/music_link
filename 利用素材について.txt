@@ -1,0 +1,13 @@
+BGM＆曲＆効果音
+魔王魂様
+https://maou.audio/
+
+効果音
+効果音ラボ様
+https://soundeffect-lab.info/
+
+モジュール(ezlocal-dish-js)
+テスト等に使わせていただきました
+MIZUSHIKI様
+https://suwa.pupu.jp/index.html
+からお借りしました
